@@ -1,2 +1,2 @@
 # MyReader
-for reading scholar paper
+for downloading scholar paper
